@@ -1,1 +1,1 @@
-http://flaviachaparro/lista02.github.io
+https://flaviachaparro/lista02.github.io
